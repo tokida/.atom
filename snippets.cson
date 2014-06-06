@@ -18,7 +18,3 @@
     'prefix' : 'ran'
     'body' : '* $1 [date: $2][room: $3]'
 
-'.source.md':
-   'Console log':
-     'prefix': 'log'
-     'body': 'console.log $1'
